@@ -1,0 +1,1 @@
+Toto je moje ukázka práce s AI. Navrhl jsem novou přehlednou Excel tabulku s lepšími barvami pro odlišení sousedících prvků a vylepšeným textem a ohraničením. Vytvořil jsem navigaci, kterou jsem naprogramoval s pomocí AI, což zefektivnilo práci v tabulce pro celý tým.
